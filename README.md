@@ -26,7 +26,7 @@ with open(arquivo, encoding='utf-8') as f:
             continue
         partes = linha.strip().split(',')
         grupo = int(partes[0])
-        soma = sum(int(p.split(':')[1]) for p in partes[1:] if ':' in p and p.split(':')[1])
+        soma = sum(int(p.split(':')[1]) for p in partes[1:] if ':' in p and  p.split(':')[1])
 
       g = grupos[grupo]
       g['total'] += soma
