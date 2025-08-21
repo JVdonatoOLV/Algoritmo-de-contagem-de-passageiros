@@ -13,6 +13,7 @@ FLUXOGRAMA:
 <img width="3240" height="2137" alt="Cópia de fluxograma do sistema de passageiros" src="https://github.com/user-attachments/assets/ee81b0c8-03bf-4072-9ca4-6fd7545d71a9" />
 
 
+Lista dos ônibus:[Uploading out.csv…]()
 
 algoritmo:
 [main (1).py](https://github.com/user-attachments/files/21927260/main.1.py)
