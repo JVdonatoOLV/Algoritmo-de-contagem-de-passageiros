@@ -3,6 +3,9 @@ Olá a todos que chegaram até aqui para ver nosso trabalho, hoje apresentamos n
 
 O desafio que nos foi dado foi criar um algoritmo que recebe uma lista de linhas de ônibus e várias viagens feitas sobre essas linhas com os valores de pessoas que embarcaram e desembarcaram em cada ponto de parada.
 
+SLIDES:[Algoritmo Contador de Passageiros (1).pdf](https://github.com/user-attachments/files/21927300/Algoritmo.Contador.de.Passageiros.1.pdf)
+
+
 ARQUIVO WORD:
 [Arquivo LeiaMe.docx](https://github.com/user-attachments/files/21927251/Arquivo.LeiaMe.docx)
 
