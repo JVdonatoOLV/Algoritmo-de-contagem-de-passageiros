@@ -10,7 +10,8 @@ SLIDES:[Algoritmo.Contador.de.Passageiros.1.pdf](https://github.com/user-attachm
 DOCUMENTO WORD:[Arquivo.LeiaMe.docx](https://github.com/user-attachments/files/21927480/Arquivo.LeiaMe.docx)
 
 FLUXOGRAMA DO ALGORITMO:
-<img width="3240" height="2137" alt="Cópia de fluxograma do sistema de passageiros" src="https://github.com/user-attachments/assets/9c7dbcf7-412f-4976-b469-eb42a9e2cca9" />
+<img width="4418" height="2852" alt="Cópia de Cópia de fluxograma do sistema de passageiros" src="https://github.com/user-attachments/assets/6808394c-c9a0-4893-9755-b79a88fce4b8" />
+
 
 ALGORITMO EM CÓDIGO:[main (1).py](https://github.com/user-attachments/files/21927489/main.1.py)
     
