@@ -5,8 +5,6 @@ Alunos:João Vitor Donato Oliveira,Tiago Vargas e Guilherme Vicente seixas.
 O desafio que nos foi dado foi criar um algoritmo que recebe uma lista de linhas de ônibus e várias viagens feitas sobre essas linhas com 
 os valores de pessoas que embarcaram e desembarcaram em cada ponto de parada.
 
-SLIDES:
-
 Contexto:
  A prefeitura de um município, em parceria com a empresa de transporte local, identificou que algumas linhas de ônibus estão operando acima da capacidade durante os horários de pico. Para solucionar esse problema, foi lançado um desafio voltado aos alunos do curso técnico em Desenvolvimento de Sistemas. ​
 Objetivo do projeto:
@@ -42,12 +40,6 @@ print():Exibir os resultados formatados.​
 conclusão:
  Em conclusão, o trabalho alcançou pontencial para ser o algoritmo certo para o trabalho de verificar as rotinas de viagens dos ônibus, oferecendo uma solução eficiente e prática para análise de dados de transporte público. A estrutura proposta pode ser facilmente adaptada para outros contextos que envolvam leitura e processamento de dados tabulares.​
  
-DOCUMENTO WORD:[Arquivo.LeiaMe.docx](https://github.com/user-attachments/files/21927480/Arquivo.LeiaMe.docx)
 
 FLUXOGRAMA DO ALGORITMO:
 <img width="4418" height="3012" alt="Cópia de Cópia de fluxograma do sistema de passageiros (2)" src="https://github.com/user-attachments/assets/e0a3f2d6-ea8a-41c0-9f29-92b8d9e066da" />
-
-
-
-ALGORITMO EM CÓDIGO:[main (1).py](https://github.com/user-attachments/files/21927489/main.1.py)
-    
