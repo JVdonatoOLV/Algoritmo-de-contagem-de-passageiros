@@ -44,7 +44,8 @@ conclusão:
  
 DOCUMENTO WORD:[Arquivo.LeiaMe.docx](https://github.com/user-attachments/files/21927480/Arquivo.LeiaMe.docx)
 
-FLUXOGRAMA DO ALGORITMO:<img width="4418" height="2852" alt="Cópia de Cópia de fluxograma do sistema de passageiros (1)" src="https://github.com/user-attachments/assets/0394127e-372a-4775-8f40-671852a8dcae" />
+FLUXOGRAMA DO ALGORITMO:
+<img width="4418" height="3012" alt="Cópia de Cópia de fluxograma do sistema de passageiros (2)" src="https://github.com/user-attachments/assets/e0a3f2d6-ea8a-41c0-9f29-92b8d9e066da" />
 
 
 
