@@ -5,7 +5,7 @@ Alunos:João Vitor Donato Oliveira,Tiago Vargas e Guilherme Vicente seixas.
 O desafio que nos foi dado foi criar um algoritmo que recebe uma lista de linhas de ônibus e várias viagens feitas sobre essas linhas com 
 os valores de pessoas que embarcaram e desembarcaram em cada ponto de parada.
 
-SLIDES:[Algoritmo.Contador.de.Passageiros.1.pdf](https://github.com/user-attachments/files/21927477/Algoritmo.Contador.de.Passageiros.1.pdf)
+SLIDES:
 
 Contexto:
  A prefeitura de um município, em parceria com a empresa de transporte local, identificou que algumas linhas de ônibus estão operando acima da capacidade durante os horários de pico. Para solucionar esse problema, foi lançado um desafio voltado aos alunos do curso técnico em Desenvolvimento de Sistemas. ​
